@@ -14,23 +14,3 @@ if n == rev:
     print("its a palindrome")
 else:
     print("Its not a palindrome")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
