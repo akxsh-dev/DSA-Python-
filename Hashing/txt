@@ -1,1 +1,15 @@
+1: use double hashing technique to store values in a hashtable, write the sequence in which the value will be stored.
 
+hash(key,i)=(h1(key) + i*h2(hey))%m
+h1(key)=key%7
+h2(key)=6-(key%6)
+
+values:
+49,63,56,52,54,48
+
+2: There are 7 values that we need to store in a hash table, you are advised to used linear probing for collision handling. Write the sequence in which the values will stored inside the data structure. 
+
+The values are:
+50,51,49,16,56,15,19
+
+Hash(key)= Key%7
