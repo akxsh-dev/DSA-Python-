@@ -13,3 +13,5 @@ The values are:
 50,51,49,16,56,15,19
 
 Hash(key)= Key%7
+
+3: Imagine a situation where you have 1000 keys with values from 0-999, how would you perform (search, insert, delete) in constant time?
